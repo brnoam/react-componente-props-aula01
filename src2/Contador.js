@@ -2,7 +2,7 @@ import React, { useState } from "react";
 
 export default function Contador() {
   const [num, setNum] = useState(0);
-  const [nome, setNome] = useState("clau");
+  const [nome, setNome] = useState("Bruno");
 
   return (
     <div>
